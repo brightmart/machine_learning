@@ -9,3 +9,5 @@ Check naive_bayesian_binary_classification.py for more detail.
 Then we use Naive Bayes to do multiple label classification, which we use it to detect intent of user from spoken dialougue. In this task there are more than 100 different intents, our job is to classify the sentence to a specific label correctly. Traditionally, only the current sentence will be used. However, we also try to model this task with context. It means not only current sentence will be used, previous interactive will be also used.
 
 Check naive_bayesian_multi_labels.py
+
+![alt text](https://github.com/brightmart/machine_learning/blob/master/745600483.jpg)
