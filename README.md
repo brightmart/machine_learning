@@ -1,6 +1,6 @@
 Machine learning applied to NLP without deep learning
 
-The purpose of this respository is use machine learning to solve NLP problem without involving deep learning releted technology. So only traditional machine learning methods will be used here. It will include Naive Bayes, Random Forest,GBDT and so on.
+The purpose of this respository is use machine learning to solve NLP problem without involving deep learning releted technology. So only traditional machine learning methods will be used here. It will include Naive Bayes, Decision Tree, Random Forest,GBDT and so on.
 
 We will first use Naive Bayes to do binary classification, which is to classify a sentence releted to be a 'theft' or not.
 
